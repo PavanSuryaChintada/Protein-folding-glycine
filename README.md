@@ -81,10 +81,4 @@ This project integrates classical data science libraries with quantum computing 
 * [cite_start]**Hardware Execution:** Testing the model directly on real quantum hardware[cite: 116].
 * [cite_start]**Hybrid AI-Quantum:** Exploring hybrid AI-quantum models to further enhance prediction accuracy and efficiency[cite: 117].
 
-## 👥 Team
 
-* [cite_start]**Tanuja:** Project Lead [cite: 9]
-* [cite_start]**Pavan Surya:** Algorithm Developer (Hamiltonian & Encoding) [cite: 10]
-* [cite_start]**Ravi Teja:** Quantum Simulation Engineer (VQE) [cite: 11]
-* [cite_start]**Bhavya sai:** Research Analyst (Theory) [cite: 12]
-* [cite_start]**Rishitha:** Data Specialist (Preprocessing) [cite: 13]

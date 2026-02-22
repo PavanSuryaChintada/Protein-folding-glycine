@@ -1,6 +1,6 @@
 # ⚛️ Quantum Protein Folding: A VQE Approach
 
-**Project for the KY Quantum Hackathon**
+**Project for the Qiskit Fall Fest'25 Hackathon |RGUKT SRIKAKULAM|ANDHRA PRADESH**
 
 [cite_start]This project demonstrates a hybrid quantum-classical workflow to predict the three-dimensional structure of proteins, one of the most complex challenges in computational biology[cite: 4, 24]. [cite_start]We use the Variational Quantum Eigensolver (VQE) algorithm to find the lowest energy state (ground state) of a protein, which corresponds to its most stable folded form[cite: 5, 29]. [cite_start]This demonstration focuses on the glycine molecule as its model[cite: 7].
 
@@ -80,5 +80,21 @@ This project integrates classical data science libraries with quantum computing 
 * [cite_start]**Scaling:** Extending the workflow to more complex protein chains[cite: 115].
 * [cite_start]**Hardware Execution:** Testing the model directly on real quantum hardware[cite: 116].
 * [cite_start]**Hybrid AI-Quantum:** Exploring hybrid AI-quantum models to further enhance prediction accuracy and efficiency[cite: 117].
+  
+## 👥 Team Members and Roles
 
+- **V.S.L. Tanuja** – Project Lead  
+  Manages overall direction, coordination, and milestone tracking.
+
+- **C. Pavan Surya** – Algorithm Developer  
+  Designed encoding schemes and developed Hamiltonian construction modules.
+
+- **D. Ravi Teja** – Quantum Simulation Engineer  
+  Implemented, executed, and optimized the Variational Quantum Eigensolver (VQE) algorithm for protein folding simulations.
+
+- **K. Bhavya Sai** – Research Analyst  
+  Studied quantum theory foundations and protein folding mechanisms to support model design.
+
+- **S. Rishitha** – Data Specialist  
+  Managed data preprocessing, organization, and input formatting for simulation workflows.
 
